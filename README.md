@@ -1,4 +1,3 @@
-# CNN-Satellite-Image-Classification
 # APPLICATION OF DIFFERENT CNN ON AID DATASET
 The application of various Convolutional Neural Networks on the Aid dataset for satellite image classification, featuring custom layers, transfer learning with EfficientNetB3, MobileNetV2, and ResNet50, and multiple experiments to enhance accuracy.
 
